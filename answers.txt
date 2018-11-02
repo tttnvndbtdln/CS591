@@ -1,0 +1,4 @@
+Bob 10
+Alice 5
+Carol 8
+Phuong 2
